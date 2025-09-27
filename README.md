@@ -1,7 +1,7 @@
 # RimworldTranslationMod
-<!-- # depended mod name(ja-JP) -->
+<!-- # Vanilla Factions Expanded - Settlers(ja-JP) -->
 
-[depended mod name](https://steamcommunity.com/sharedfiles/filedetails/?id=xxxxxxxxx) およびその拡張Modの自分用日本語化Mod
+[Vanilla Factions Expanded - Settlers](https://steamcommunity.com/sharedfiles/filedetails/?id=2052918119) およびその拡張Modの自分用日本語化Mod
 
 [Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの意訳を施した内容であることを承知の上で使用してください。
 
@@ -21,9 +21,8 @@
 > * Harmony
 > * Core
 > * DLC群
-> * (翻訳対象がさらに前提としているMod名)
-> * depended mod name
-> * additional mod name
+> * Vanilla Expanded Framework
+> * Vanilla Factions Expanded - Settlers
 > * **本Mod**
 
 ## MID-SAVE
