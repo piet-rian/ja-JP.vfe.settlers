@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: gattling bullet -->
+  <Bullet_GatlingGun.label>ガトリング弾</Bullet_GatlingGun.label>
+
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.label>ガトリングガン</Gun_GatlingGun.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_GatlingGun.description>タレットに取り付けるための簡易自動火器。</Gun_GatlingGun.description>
+  <!-- EN: gatling gun -->
+  <Gun_GatlingGun.verbs.Verb_Shoot.label>発射</Gun_GatlingGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: gatling gun turret -->
+  <Turret_GatlingGun.label>ガトリングタレット</Turret_GatlingGun.label>
+  <!-- EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel
+  to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May
+  explode when damaged. -->
+  <Turret_GatlingGun.description>携帯可能な旧式タレット。操作には要員が必要です。多用後は銃身の整備に鋼材を要します。連続射撃時間が長くなるほど発射速度が上がります。ダメージを受けると爆発することがあります。</Turret_GatlingGun.description>
+  <!-- EN: Barrel durability -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>銃身耐久度</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_GatlingGun.comps.CompRefuelable.fuelLabel>銃身交換までの発射回数</Turret_GatlingGun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>発射不可: 銃身の交換が必要です</Turret_GatlingGun.comps.CompRefuelable.outOfFuelMessage>
+
+</LanguageData>

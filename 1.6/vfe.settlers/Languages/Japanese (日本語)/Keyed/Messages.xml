@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Raid caravan from {0} -->
+  <CaravanRaidLabel>{0} のキャラバン襲撃</CaravanRaidLabel>
+  <!-- EN: You have received information of a caravan from {0} that has set up camp nearby. Now
+  would be a good time to raid it, but be aware that caravans are usually guarded. -->
+  <CaravanRaidDialogue>{0} からのキャラバンが近くに野営を張っているという情報が入りました。今が襲撃の好機ですが、キャラバンは通常護衛が付いている点に注意してください。</CaravanRaidDialogue>
+  <!-- EN: Wanted by {0} -->
+  <WantedLabel>{0} に指名手配</WantedLabel>
+  <!-- EN: {0} has put up a bounty for {PAWN_nameDef}, a most vile criminal with many atrocities
+  under {PAWN_possessive} name. {PAWN_nameDef} from {1} is wanted for {2} silver if delivered dead,
+  double if delivered alive to one of {0}'s settlements. -->
+  <WantedDialogue>{0} は {PAWN_nameDef} を指名手配しています。{PAWN_possessive} 名の下で多くの悪行を行った極めて凶悪な犯罪者です。{PAWN_nameDef} を死亡した状態で引き渡せば {2} シルバー、{0} のいずれかの居住地に生け捕りで引き渡せばその倍額が支払われます。</WantedDialogue>
+  <!-- EN: Turn in {PAWN_nameDef} -->
+  <WantedTurnIn>{PAWN_nameDef} を引き渡す</WantedTurnIn>
+  <!-- EN: Turn in the corpse of {PAWN_nameDef} for a reward. -->
+  <WantedTurnInDescDead>{PAWN_nameDef} の死体を引き渡して報酬を得る。</WantedTurnInDescDead>
+  <!-- EN: Turn in the criminal {PAWN_nameDef} for a reward. -->
+  <WantedTurnInDescAlive>{PAWN_nameDef} を生け捕りにして引き渡して報酬を得る。</WantedTurnInDescAlive>
+  <!-- EN: Turned in {PAWN_nameDef}. -->
+  <WantedTurnInLabel>{PAWN_nameDef} を引き渡しました。</WantedTurnInLabel>
+  <!-- EN: You've turned in the corpse of {PAWN_nameDef} for {0} silver. -->
+  <WantedTurnInMessageDead>{PAWN_nameDef} の死体を {0} シルバーで引き渡しました。</WantedTurnInMessageDead>
+  <!-- EN: You've turned in criminal {PAWN_nameDef} alive for {0} silver. -->
+  <WantedTurnInMessageAlive>{PAWN_nameDef} を生け捕りにして {0} シルバーで引き渡しました。</WantedTurnInMessageAlive>
+  <!-- EN: Wanted by {0} for {1} silver -->
+  <WantedHediff>{0} により {1} シルバーで指名手配</WantedHediff>
+  <!-- EN: Default Settings -->
+  <DefaultSettings>デフォルト設定</DefaultSettings>
+  <!-- EN: Minimum reward for bounties: {0} -->
+  <MinReward>賞金の最低額: {0}</MinReward>
+  <!-- EN: Maximum reward for bounties: {0} -->
+  <MaxReward>賞金の最高額: {0}</MaxReward>
+  <!-- EN: Should muffalo go for your chemshine: {0} -->
+  <Chemsined>マッファローがケムシャインを求めるか: {0}</Chemsined>
+  <!-- EN: Protection fee -->
+  <ProtectionFeeLabel>みかじめ料</ProtectionFeeLabel>
+  <!-- EN: A band of thugs sent by {0} call you from nearby. \n\n They offer to keep your colony
+  safe from any threats, even the ones potentially caused by them, as long as you pay a fee of {1}
+  silver. \n\n Be warned - refusal can anger the thugs.  -->
+  <ProtectionFeeDialogue>{0} が差し向けたならず者の一団が近くから連絡してきました。\n\n 彼らは、あなたが {1} シルバーを支払う限り、彼ら自身が引き起こす可能性のあるものも含めあらゆる脅威からコロニーを守ると申し出ています。\n\n ただし拒否すれば彼らを怒らせる可能性がある点に注意してください。</ProtectionFeeDialogue>
+  <!-- EN: Accept the offer and pay -->
+  <ProtectionFeeAgree>申し出を受け入れて支払う</ProtectionFeeAgree>
+  <!-- EN: The thugs from {0} seem happy with the deal and cut the communication. -->
+  <ProtectionFeeAgreeDialogue>{0} から来たならず者たちは取引に満足したようで、連絡を切りました。</ProtectionFeeAgreeDialogue>
+  <!-- EN: Refuse the offer -->
+  <ProtectionFeeDisagree>申し出を拒否する</ProtectionFeeDisagree>
+  <!-- EN: The thugs from {0} seem happy about you refusing their offer and cut the communication
+  right after assuring you that they cannot guarantee your safety. -->
+  <ProtectionFeeDisagreeDialogue>{0} から来たならず者たちは、あなたが申し出を拒否したことを喜んでいるようで、あなたの安全を保証できないと告げた直後に連絡を切りました。</ProtectionFeeDisagreeDialogue>
+  <!-- EN: Not enough silver -->
+  <ProtectionFeeNotEnoughSilver>シルバーが足りない</ProtectionFeeNotEnoughSilver>
+  <!-- EN: Chemshined Muffalos -->
+  <DrunkMuffaloTitle>ケムシャインに酔ったマッファロー</DrunkMuffaloTitle>
+  <!-- EN: A small herd of muffalos have arrived in the area. It would seem they have found a secret
+  stash of chemshine earlier, making them crave it even more. Watch out for their drunken
+  shenanigans. -->
+  <DrunkMuffaloMessage>小さなマッファローの群れがこの地域にやってきました。以前に秘密のケムシャインの蓄えを見つけたようで、さらに強くそれを求めています。酔った彼らの騒ぎに注意してください。</DrunkMuffaloMessage>
+
+  <!-- EN: Contains {0} / {1} chemfuel. -->
+  <ContainsChemfuel>化学燃料を含む: {0} / {1}</ContainsChemfuel>
+  <!-- EN: Contains {0} / {1} chemshine. -->
+  <ContainsChemshine>ケムシャインを含む: {0} / {1}</ContainsChemshine>
+  <!-- EN: need chemfuel -->
+  <NoChemfuel>化学燃料が必要</NoChemfuel>
+
+  <!-- Chemsine -->
+  <!-- EN: Chemfuel -->
+  <VFES_InsertFirstItemDesc>化学燃料</VFES_InsertFirstItemDesc>
+  <!-- EN: Bring chemfuel -->
+  <VFES_bringIngredientsText>化学燃料を持ってくる</VFES_bringIngredientsText>
+  <!-- EN: Bring chemfuel to the chemsine barrel to start fermentation -->
+  <VFES_bringIngredientsDesc>発酵を開始するには、化学燃料を化学醸造樽に持ってきてください。</VFES_bringIngredientsDesc>
+  <!-- EN: Cancel bringing chemfuel -->
+  <VFES_cancelIngredientsText>化学燃料の持ち込みをキャンセル</VFES_cancelIngredientsText>
+  <!-- EN: Cancel bringing chemfuel to the chemsine barrel. -->
+  <VFES_cancelIngredientsDesc>化学醸造樽への化学燃料の持ち込みをキャンセルします。</VFES_cancelIngredientsDesc>
+  <!-- EN: Remove chemsine -->
+  <VFES_removeProductText>化学生成物を取り出す</VFES_removeProductText>
+  <!-- EN: Remove chemsine from the chemsine barrel. -->
+  <VFES_removeProductDesc>化学醸造樽から化学生成物を取り出します。</VFES_removeProductDesc>
+
+  <!-- Wanted -->
+  <!-- EN: Bounty target -->
+  <VFES_Target>賞金首</VFES_Target>
+  <!-- EN: The bounty target {0} has been located at this outpost. -->
+  <VFES_TargetDesc>賞金首 {0} がこの前哨基地で発見されました。</VFES_TargetDesc>
+</LanguageData>

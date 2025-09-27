@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bandana -->
+  <VFES_Headgear_Bandana.label>バンダナ</VFES_Headgear_Bandana.label>
+  <!-- EN: A warm and long piece of fabric protecting the jaw from exposure to wind. Makes one hard
+  to remember. -->
+  <VFES_Headgear_Bandana.description>顎を風から守る暖かい長布。人の記憶に残りにくくなります。</VFES_Headgear_Bandana.description>
+
+  <!-- EN: flat cap -->
+  <VFES_Headgear_FlatCap.label>フラットキャップ</VFES_Headgear_FlatCap.label>
+  <!-- EN: A flat and handy cap. Somewhat protecting from the sun. Worn by settlers and colonists
+  during their daily occupations. -->
+  <VFES_Headgear_FlatCap.description>平らで扱いやすいキャップ。日差しをある程度遮ります。入植者の日常作業でよく着用されます。</VFES_Headgear_FlatCap.description>
+
+  <!-- EN: sombrero -->
+  <VFES_Headgear_Sombrero.label>ソンブレロ</VFES_Headgear_Sombrero.label>
+  <!-- EN: Used to shield the wearer from the sun. Required for any kind of stand-off. -->
+  <VFES_Headgear_Sombrero.description>被る者を太陽から守る帽子。対峙時には必須とされます。</VFES_Headgear_Sombrero.description>
+
+</LanguageData>

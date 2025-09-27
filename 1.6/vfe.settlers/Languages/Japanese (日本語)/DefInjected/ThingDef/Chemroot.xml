@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chemroot -->
+  <Plant_Chemroot.label>ケムルート</Plant_Chemroot.label>
+  <!-- EN: This highly volatile root is farmed for its chemfuel. It's difficult to harvest and only
+  grows in extremely fertile soil. Despite the risk of a large, chain explosion, these plants are
+  frequently farmed by desperate ranchers and imperial agro-companies alike. -->
+  <Plant_Chemroot.description>極めて揮発性の高い根で、化学燃料を採取するために栽培されます。収穫は困難で、非常に肥沃な土壌でのみ育ちます。大規模な連鎖爆発の危険があるにもかかわらず、絶望的な農夫や大手農業企業によって頻繁に栽培されています。</Plant_Chemroot.description>
+
+</LanguageData>

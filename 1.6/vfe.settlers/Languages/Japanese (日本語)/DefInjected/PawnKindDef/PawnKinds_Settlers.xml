@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: deputy -->
+  <Deputy.label>副保安官</Deputy.label>
+
+  <!-- EN: frontier trader -->
+  <Frontier_Trader.label>フロンティア商人</Frontier_Trader.label>
+
+  <!-- EN: mayor -->
+  <Mayor.label>市長</Mayor.label>
+  <!-- EN: mayors -->
+  <Mayor.labelPlural>市長たち</Mayor.labelPlural>
+
+  <!-- EN: militia -->
+  <Militia.label>民兵</Militia.label>
+
+  <!-- EN: settler -->
+  <Settler.label>入植者</Settler.label>
+
+  <!-- EN: sheriff -->
+  <Sheriff.label>保安官</Sheriff.label>
+
+</LanguageData>

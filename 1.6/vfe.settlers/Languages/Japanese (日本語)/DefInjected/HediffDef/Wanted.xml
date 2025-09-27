@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: wanted -->
+  <Wanted.label>指名手配</Wanted.label>
+  <!-- EN: This one is considered a criminal by a faction. -->
+  <Wanted.description>この者はある派閥によって犯罪者とみなされています。</Wanted.description>
+  <!-- EN: wanted -->
+  <Wanted.labelNoun>指名手配犯</Wanted.labelNoun>
+  <!-- EN: wanted -->
+  <Wanted.stages.wanted.label>指名手配</Wanted.stages.wanted.label>
+
+</LanguageData>

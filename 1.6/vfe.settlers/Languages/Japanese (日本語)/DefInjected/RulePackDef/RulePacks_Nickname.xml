@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>defaultWantedNick->[wantedNoun] [wantedAdj]</li>
+  -->
+  <NamerWantedNickname.rulePack.rulesStrings>
+    <li>defaultWantedNick->[wantedNoun] [wantedAdj]</li>
+  </NamerWantedNickname.rulePack.rulesStrings>
+
+</LanguageData>

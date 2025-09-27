@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: circular table -->
+  <TableCircular.label>円形テーブル</TableCircular.label>
+  <!-- EN: Simple, circular table that can be eaten off of. -->
+  <TableCircular.description>食事に使えるシンプルな円形テーブル。</TableCircular.description>
+
+</LanguageData>

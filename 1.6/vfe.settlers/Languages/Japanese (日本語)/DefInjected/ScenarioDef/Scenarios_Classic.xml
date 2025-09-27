@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Bandits -->
+  <VFES_Bandits.label>山賊</VFES_Bandits.label>
+  <!-- EN: After the last job, which was meant to be the last, you and other members of your gang
+  were forced to run without looking back. The only thing you have with you, are the things you
+  managed to steal, extort or find along the way. Your savage ways have granted you a bad
+  reputation, and mending relations with other factions will take a long time.
+
+Note: Since you start without any supplies and with every other faction hostile, this is a
+  difficult scenario. -->
+  <VFES_Bandits.description>最後の仕事が“最後の仕事”になるはずだったとき、あなたとギャングの仲間たちは振り返らず逃げることを強いられました。手元にあるのは奪った物、ゆすった物、道中で見つけた物だけ。あなた方の荒っぽい振る舞いは悪評を招き、他派閥との関係修復には長い時間が必要です。\n\n注意: 装備なしで開始し、他派閥がすべて敵対しているため非常に難易度の高いシナリオです。</VFES_Bandits.description>
+  <!-- EN: After the last job, which was meant to be the last, you and other members of your gang
+  were forced to run without looking back. The only thing you have with you, are the things you
+  managed to steal, extort or find along the way. Your savage ways have granted you a bad
+  reputation, and mending relations with other factions will take a long time.
+
+Note: Since you start with high wealth every other faction hostile, this is a very difficult
+  scenario. -->
+  <VFES_Bandits.scenario.description>最後の仕事が“最後の仕事”になるはずだったとき、あなたとギャングの仲間たちは振り返らず逃げることを強いられました。手元にあるのは奪った物、ゆすった物、道中で見つけた物だけ。あなた方の荒っぽい振る舞いは悪評を招き、他派閥との関係修復には長い時間が必要です。\n\n注意: 多くの所持品を持って開始しますが、他派閥はすべて敵対しているため非常に難易度の高いシナリオです。</VFES_Bandits.scenario.description>
+  <!-- EN: Bandits -->
+  <VFES_Bandits.scenario.name>山賊</VFES_Bandits.scenario.name>
+  <!-- EN: After the last job, which was meant to be the last, you and other members of your gang
+  were forced to run without looking back. The only thing you have with you, are the things you
+  managed to steal, extort or find along the way. Your savage ways have granted you a bad
+  reputation, and mending relations with other factions will take a long time. -->
+  <VFES_Bandits.scenario.parts.GameStartDialog.text>最後の仕事が“最後の仕事”になるはずだったとき、あなたと仲間たちは逃げ出しました。手元には奪った物と見つけた物しかありません。荒々しい振る舞いのため評判は悪く、他派閥との和解は長期戦になります。</VFES_Bandits.scenario.parts.GameStartDialog.text>
+  <!-- EN: A group of bandits trying to make a name for themselves. Very Difficult. -->
+  <VFES_Bandits.scenario.summary>名を上げようとする山賊の一団。非常に難しい。</VFES_Bandits.scenario.summary>
+
+</LanguageData>

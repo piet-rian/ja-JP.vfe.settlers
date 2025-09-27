@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>r_name->The [Color] [TerrainFeature] Bandits</li>
+  -->
+  <NamerFactionBandits.rulePack.rulesStrings>
+    <li>r_name->[Color]の[TerrainFeature]ならず者隊</li>
+  </NamerFactionBandits.rulePack.rulesStrings>
+
+  <!-- EN:
+    <li>r_name->The [Color] [TerrainFeature] Settlement</li>
+  -->
+  <NamerFactionSettler.rulePack.rulesStrings>
+    <li>r_name->[Color]の[TerrainFeature]入植地</li>
+  </NamerFactionSettler.rulePack.rulesStrings>
+
+</LanguageData>

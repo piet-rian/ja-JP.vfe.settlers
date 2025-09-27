@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: bandit -->
+  <Bandit.label>山賊</Bandit.label>
+
+  <!-- EN: bandit leader -->
+  <BanditLeader.label>山賊頭</BanditLeader.label>
+  <!-- EN: bandit leaders -->
+  <BanditLeader.labelPlural>山賊頭たち</BanditLeader.labelPlural>
+
+  <!-- EN: bounty hunter -->
+  <BountyHunter.label>賞金稼ぎ</BountyHunter.label>
+
+  <!-- EN: gunslinger -->
+  <Gunslinger.label>銃の名手</Gunslinger.label>
+
+  <!-- EN: outlaw -->
+  <Outlaw.label>無法者</Outlaw.label>
+
+</LanguageData>

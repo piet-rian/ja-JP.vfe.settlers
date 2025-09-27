@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has
+  sent us a message. Apparently, [siteFaction_pawnsPlural] are resting with their beasts before
+  continuing their journey.\n            \n[asker_nameDef] gave us their location, if we want to, we can go
+  attack them.</li>
+  -->
+  <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull]、[asker_faction_leaderTitle]（[asker_faction_name]）からの知らせです。どうやら[siteFaction_pawnsPlural]が荷物と家畜を休めているようです。\n\n[asker_nameDef]は彼らの位置を教えてくれました。希望するなら、我々はそこを襲うことができます。</li>
+  </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Caravan [raid]</li>
+    <li>questName->[asker_nameDef] and the Caravan [raid]</li>
+    <li>raid->Raid</li>
+    <li>raid->Attack</li>
+    <li>raid->Ambush</li>
+  -->
+  <VFES_CaravanRaid.questNameRules.rulesStrings>
+    <li>questName->キャラバン [raid]</li>
+    <li>questName->[asker_nameDef] と Caravan [raid]</li>
+    <li>raid->襲撃</li>
+    <li>raid->攻撃</li>
+    <li>raid->待ち伏せ</li>
+  </VFES_CaravanRaid.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest
+  [resolvedQuestName] has expired. -->
+  <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[siteFaction_pawnsPlural]は荷物をまとめて去っていきました。クエスト [resolvedQuestName] は期限切れになりました。</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName]
+  has ended. -->
+  <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>発見されたため、[siteFaction_pawnsPlural] はその場を去りました。クエスト [resolvedQuestName] は終了しました。</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+
+  <!-- EN:
+    <li>questName->Bounty: [nameFull] [nickname]</li>
+    <li>questName->Wanted, Dead or Alive: [nickname]</li>
+    <li>questName->[nickname]'s brigands</li>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails
+  us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our
+  vicinity.\n\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a
+  grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably
+  guarded.\n\nIf we clear out their camp, [allRewardsDescriptions]</li>
+  -->
+  <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+    <li>questName->懸賞金: [nameFull] [nickname]</li>
+    <li>questName->指名手配, Dead or Alive: [nickname]</li>
+    <li>questName->[nickname] のならず者たち</li>
+    <li>questDescription->[asker_nameFull]（[asker_faction_leaderTitle]、[asker_faction_name]）からの知らせです。悪名高い[criminal_nameFull]（[siteFaction_name]）がこの近隣に潜んでいるとのことです。\n\n[asker_nameDef] は [nickname] を彼らの入植地まで連れて来れば多額の報酬 [bounty] シルバー（生存なら倍額）を支払うと言っています。彼らは隠れ家に隠れており、おそらく警備されています。\n\nもし我々が彼らの野営地を一掃すれば、[allRewardsDescriptions]</li>
+  </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the
+  area. The quest [resolvedQuestName] has expired. -->
+  <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[criminal_nameFull] は追いつかれていると悟り、この地域を離れることにしました。クエスト [resolvedQuestName] は期限切れになりました。</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: The brigands has packed up and moved on. -->
+  <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>ならず者たちは荷物をまとめて去りました。</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Payment arrived -->
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>報酬の到着</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+  <!-- EN: You have defeated [criminal_nameFull] and eliminated the camp!\n\nThe bonus reward from
+  [asker_faction_name] has arrived. -->
+  <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>あなたは [criminal_nameFull] を打ち破り、野営地を壊滅させました！\n\n[asker_faction_name] からの追加報酬が到着しました。</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+
+</LanguageData>

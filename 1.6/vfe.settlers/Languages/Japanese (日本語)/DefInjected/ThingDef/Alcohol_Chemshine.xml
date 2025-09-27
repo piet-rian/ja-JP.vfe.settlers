@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chemshine -->
+  <Chemshine.label>ケムシャイン</Chemshine.label>
+  <!-- EN: A dangerous alcohol usually consumed by rimworld prospectors and industrial settlers.
+  Whilst it takes away the sadness and pain, chemshine intoxicates the blood of the drinker with
+  chemfuel, resulting in a powerful explosion upon death. -->
+  <Chemshine.description>リムワールドの発掘者や工業入植者が好んで飲む危険な蒸留酒。悲しみや痛みを和らげる一方で、飲む者の血に化学燃料を取り込み、死亡時に強力な爆発を引き起こすことがあります。</Chemshine.description>
+  <!-- EN: Drink {0} -->
+  <Chemshine.ingestible.ingestCommandString>{0} を飲む</Chemshine.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Chemshine.ingestible.ingestReportString>{0} を飲んでいます。</Chemshine.ingestible.ingestReportString>
+
+</LanguageData>

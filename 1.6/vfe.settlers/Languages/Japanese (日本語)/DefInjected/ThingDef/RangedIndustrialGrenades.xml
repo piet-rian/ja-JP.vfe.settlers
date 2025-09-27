@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: frag grenade -->
+  <VFES_Proj_Dynamite.label>破片炸裂ダイナマイト</VFES_Proj_Dynamite.label>
+
+  <!-- EN: dynamite -->
+  <VFES_Weapon_GrenadeDynamite.label>ダイナマイト</VFES_Weapon_GrenadeDynamite.label>
+  <!-- EN: A makeshift explosive stick of chemfuel. They can be thrown a short distance, where it
+  will explode after a random amount of time. -->
+  <VFES_Weapon_GrenadeDynamite.description>化学燃料で作られた即席の爆薬棒。短距離に投げることができ、一定の時間経過後に爆発します（時間はランダム）。</VFES_Weapon_GrenadeDynamite.description>
+  <!-- EN: throw dynamite -->
+  <VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>ダイナマイトを投げる</VFES_Weapon_GrenadeDynamite.verbs.throw_dynamite.label>
+
+</LanguageData>

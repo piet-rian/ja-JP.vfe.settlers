@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: civil settlers -->
+  <SettlerCivil.label>市民入植者</SettlerCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the
+  technology that brought them to this world. They are more than capable of defending themselves
+  with basic gunpowder weaponry whilst they go about their every day routine of herding cattle,
+  drinking chemshine and hunting down bounties.\n\nThey are concerned with the practical matters of
+  trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <SettlerCivil.description>これらの人々は数十年、あるいは数世代にわたりここで暮らし、この世界に至った多くの技術を失ってしまいました。日常は家畜の放牧やケムシャインを飲むこと、賞金狩りを行うことで成り立っており、基本的な火薬武器で自衛することは十分にできます。\n\n彼らは交易、信頼、そして生存という実利的な事柄に関心を持っています。\n\nこの特定の集団は市民的な振る舞いを高く重んじます。</SettlerCivil.description>
+  <!-- EN: mayor -->
+  <SettlerCivil.leaderTitle>市長</SettlerCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerCivil.messageDefendersAttacking>{1} の {0} があなたの {2} を攻撃しています。</SettlerCivil.messageDefendersAttacking>
+  <!-- EN: settler -->
+  <SettlerCivil.pawnSingular>入植者</SettlerCivil.pawnSingular>
+  <!-- EN: settlers -->
+  <SettlerCivil.pawnsPlural>入植者たち</SettlerCivil.pawnsPlural>
+
+  <!-- EN: rough settlers -->
+  <SettlerRough.label>粗野な入植者</SettlerRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the
+  technology that brought them to this world. They are more than capable of defending themselves
+  with basic gunpowder weaponry whilst they go about their every day routine of herding cattle,
+  drinking chemshine and hunting down bounties.\n\nThey are not concerned with the practical matters
+  of trade and trust.\n\nThis particular group believes that noone is created equal, and only
+  strength allows one to survive on the frontier. -->
+  <SettlerRough.description>これらの人々は長年あるいは何世代にもわたりここで暮らし、多くの技術を失いました。彼らは家畜の放牧やケムシャインを飲むこと、賞金狩りといった日常を送りつつ、基本的な火薬武器で自らを守ることができます。\n\n彼らは交易や信頼といった実利的な問題にはあまり関心がありません。\n\nこの集団は「人は平等に生まれるわけではない」と信じ、フロンティアで生き残るのは力を持つ者だけだと考えています。</SettlerRough.description>
+  <!-- EN: mayor -->
+  <SettlerRough.leaderTitle>首長</SettlerRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerRough.messageDefendersAttacking>{1} の {0} があなたの {2} を攻撃しています。</SettlerRough.messageDefendersAttacking>
+  <!-- EN: settler -->
+  <SettlerRough.pawnSingular>入植者</SettlerRough.pawnSingular>
+  <!-- EN: settlers -->
+  <SettlerRough.pawnsPlural>入植者たち</SettlerRough.pawnsPlural>
+
+  <!-- EN: bandits -->
+  <SettlerSavage.label>山賊連合</SettlerSavage.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the
+  technology that brought them to this world. They are a loose confederation of bandit gangs who've
+  agreed to mostly fight outsiders instead of fighting each other.\n\nBandits don't sow, they don't
+  build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength
+  and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors. -->
+  <SettlerSavage.description>これらは山賊の連合で、何十年もこの地に住んでおり、多くの技術を失ってきました。互いに争うよりも外敵と戦うことに同意した緩やかなギャングの集まりです。\n\n山賊は耕作も建築もしませんし、めったに交易もしません。個人の強さと冷酷さを重んじる血と名誉の文化に動かされ、襲撃や強奪によってより生産的な隣人から富を得ています。</SettlerSavage.description>
+  <!-- EN: mayor -->
+  <SettlerSavage.leaderTitle>頭領</SettlerSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <SettlerSavage.messageDefendersAttacking>{1} の {0} があなたの {2} を攻撃しています。</SettlerSavage.messageDefendersAttacking>
+  <!-- EN: settler -->
+  <SettlerSavage.pawnSingular>山賊</SettlerSavage.pawnSingular>
+  <!-- EN: settlers -->
+  <SettlerSavage.pawnsPlural>山賊たち</SettlerSavage.pawnsPlural>
+
+</LanguageData>

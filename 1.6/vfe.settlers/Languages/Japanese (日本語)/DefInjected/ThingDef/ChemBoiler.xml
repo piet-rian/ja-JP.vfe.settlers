@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chemboiler -->
+  <ChemBoiler.label>化学燃料ボイラー</ChemBoiler.label>
+  <!-- EN: A device that converts chemfuel into heat. Simple machinery doesn't allow the temperature
+  to be adjusted. -->
+  <ChemBoiler.description>化学燃料を熱に変換する装置。簡易な機構で温度調節はできません。</ChemBoiler.description>
+
+</LanguageData>
