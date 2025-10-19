@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: civil settlers -->
-  <SettlerCivil.label>市民入植者</SettlerCivil.label>
+  <SettlerCivil.label>市民開拓者</SettlerCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the
   technology that brought them to this world. They are more than capable of defending themselves
   with basic gunpowder weaponry whilst they go about their every day routine of herding cattle,
@@ -14,12 +14,12 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <SettlerCivil.messageDefendersAttacking>{1} の {0} があなたの {2} を攻撃しています。</SettlerCivil.messageDefendersAttacking>
   <!-- EN: settler -->
-  <SettlerCivil.pawnSingular>入植者</SettlerCivil.pawnSingular>
+  <SettlerCivil.pawnSingular>開拓者</SettlerCivil.pawnSingular>
   <!-- EN: settlers -->
-  <SettlerCivil.pawnsPlural>入植者たち</SettlerCivil.pawnsPlural>
+  <SettlerCivil.pawnsPlural>開拓者たち</SettlerCivil.pawnsPlural>
 
   <!-- EN: rough settlers -->
-  <SettlerRough.label>粗野な入植者</SettlerRough.label>
+  <SettlerRough.label>粗野な開拓者</SettlerRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the
   technology that brought them to this world. They are more than capable of defending themselves
   with basic gunpowder weaponry whilst they go about their every day routine of herding cattle,
@@ -32,9 +32,9 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <SettlerRough.messageDefendersAttacking>{1} の {0} があなたの {2} を攻撃しています。</SettlerRough.messageDefendersAttacking>
   <!-- EN: settler -->
-  <SettlerRough.pawnSingular>入植者</SettlerRough.pawnSingular>
+  <SettlerRough.pawnSingular>開拓者</SettlerRough.pawnSingular>
   <!-- EN: settlers -->
-  <SettlerRough.pawnsPlural>入植者たち</SettlerRough.pawnsPlural>
+  <SettlerRough.pawnsPlural>開拓者たち</SettlerRough.pawnsPlural>
 
   <!-- EN: bandits -->
   <SettlerSavage.label>山賊連合</SettlerSavage.label>
