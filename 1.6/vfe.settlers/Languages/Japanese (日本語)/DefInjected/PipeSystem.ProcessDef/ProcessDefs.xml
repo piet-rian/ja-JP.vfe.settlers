@@ -6,6 +6,6 @@
   <!-- EN: Turns 50 chemfuel into 25 chemshine. -->
   <VFES_ChemfuelToChemshine.description>50 の化学燃料を 25 のケムシャインに変換します。</VFES_ChemfuelToChemshine.description>
   <!-- EN: Ferment 50 chemfuel into 25 chemshine -->
-  <VFES_ChemfuelToChemshine.labelOverride>化学燃料50→ケムシャイン25を発酵</VFES_ChemfuelToChemshine.labelOverride>
+  <VFES_ChemfuelToChemshine.labelOverride>50 の化学燃料を発酵させて 25 のケムシャインを生成しています</VFES_ChemfuelToChemshine.labelOverride>
 
 </LanguageData>
