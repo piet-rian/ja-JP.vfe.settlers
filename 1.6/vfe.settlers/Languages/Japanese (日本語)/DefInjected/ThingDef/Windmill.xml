@@ -3,8 +3,7 @@
 
   <!-- EN: windmill -->
   <Windmill.label>風車</Windmill.label>
-  <!-- EN: A wind-powered electrical generator of older make. Requires a large clear space in front
-  and behind for optimal air flow. -->
+  <!-- EN: A wind-powered electrical generator of older make. Requires a large clear space in front and behind for optimal air flow. -->
   <Windmill.description>古い型の風力発電機。最大の効率を得るには前後に広い空きスペースが必要です。</Windmill.description>
 
 </LanguageData>

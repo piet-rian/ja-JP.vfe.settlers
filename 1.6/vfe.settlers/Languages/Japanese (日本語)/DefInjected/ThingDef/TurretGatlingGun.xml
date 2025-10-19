@@ -13,9 +13,7 @@
 
   <!-- EN: gatling gun turret -->
   <Turret_GatlingGun.label>ガトリングタレット</Turret_GatlingGun.label>
-  <!-- EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel
-  to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May
-  explode when damaged. -->
+  <!-- EN: A portable, old time turret. Needs to be manned in order to be operated. Requires steel to refurbish its barrel after heavy use. Firing speed increases the longer this turret fires. May explode when damaged. -->
   <Turret_GatlingGun.description>携帯可能な旧式タレット。操作には要員が必要です。多用後は銃身の整備に鋼材を要します。連続射撃時間が長くなるほど発射速度が上がります。ダメージを受けると爆発することがあります。</Turret_GatlingGun.description>
   <!-- EN: Barrel durability -->
   <Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>銃身耐久度</Turret_GatlingGun.comps.CompRefuelable.fuelGizmoLabel>

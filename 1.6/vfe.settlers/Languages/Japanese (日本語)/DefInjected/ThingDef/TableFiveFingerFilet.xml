@@ -6,8 +6,7 @@
 
   <!-- EN: five finger fillet table -->
   <TableFiveFingerFilet.label>ファイブフィンガーフィレット用テーブル</TableFiveFingerFilet.label>
-  <!-- EN: A wooden table for playing five finger fillet. Might lose a finger or two.\n\nWhilst this
-  activity leads to cuts on the fingers of players, it also slowly trains melee skill. -->
+  <!-- EN: A wooden table for playing five finger fillet. Might lose a finger or two.\n\nWhilst this activity leads to cuts on the fingers of players, it also slowly trains melee skill. -->
   <TableFiveFingerFilet.description>五指刺しゲーム用の木製テーブル。指を一、二本失うことがあるかもしれません。\n\nこの遊びはプレイヤーの指に切り傷をもたらしますが、近接戦闘技能をゆっくりと鍛えます。</TableFiveFingerFilet.description>
 
 </LanguageData>

@@ -26,13 +26,11 @@
   </VFES_CaravanRaid.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <!-- EN: The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest
-  [resolvedQuestName] has expired. -->
+  <!-- EN: The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest [resolvedQuestName] has expired. -->
   <VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[siteFaction_pawnsPlural]は荷物をまとめて去っていきました。クエスト [resolvedQuestName] は期限切れになりました。</VFES_CaravanRaid.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
-  <!-- EN: After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName]
-  has ended. -->
+  <!-- EN: After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName] has ended. -->
   <VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>発見されたため、[siteFaction_pawnsPlural] はその場を去りました。クエスト [resolvedQuestName] は終了しました。</VFES_CaravanRaid.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
 
   <!-- EN:
@@ -53,8 +51,7 @@
   </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>クエストの期限切れ: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-  <!-- EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the
-  area. The quest [resolvedQuestName] has expired. -->
+  <!-- EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired. -->
   <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>[criminal_nameFull] は追いつかれていると悟り、この地域を離れることにしました。クエスト [resolvedQuestName] は期限切れになりました。</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>クエスト失敗: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
@@ -62,8 +59,7 @@
   <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>ならず者たちは荷物をまとめて去りました。</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Payment arrived -->
   <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>報酬の到着</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
-  <!-- EN: You have defeated [criminal_nameFull] and eliminated the camp!\n\nThe bonus reward from
-  [asker_faction_name] has arrived. -->
+  <!-- EN: You have defeated [criminal_nameFull] and eliminated the camp!\n\nThe bonus reward from [asker_faction_name] has arrived. -->
   <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>あなたは [criminal_nameFull] を打ち破り、野営地を壊滅させました！\n\n[asker_faction_name] からの追加報酬が到着しました。</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
 
 </LanguageData>

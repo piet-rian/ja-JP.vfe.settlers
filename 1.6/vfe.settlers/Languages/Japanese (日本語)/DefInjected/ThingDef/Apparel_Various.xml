@@ -3,14 +3,12 @@
 
   <!-- EN: great dress -->
   <Apparel_GreatDress.label>グレートドレス</Apparel_GreatDress.label>
-  <!-- EN: A great dress, most often worn by ladies and suffragettes. Greatly enhances social
-  interactions. -->
+  <!-- EN: A great dress, most often worn by ladies and suffragettes. Greatly enhances social interactions. -->
   <Apparel_GreatDress.description>主に婦人や婦人参政権運動家が着用する長衣。社交的な交流を大きく高めます。</Apparel_GreatDress.description>
 
   <!-- EN: vest -->
   <Apparel_Vest.label>ベスト</Apparel_Vest.label>
-  <!-- EN: A simple vest, providing a decent layer of insulation from both heat and cold. Greatly
-  enhances social interactions. -->
+  <!-- EN: A simple vest, providing a decent layer of insulation from both heat and cold. Greatly enhances social interactions. -->
   <Apparel_Vest.description>シンプルなベストで、暑さと寒さの両方に対する適度な断熱層を提供します。社交的な交流を大きく高めます。</Apparel_Vest.description>
 
 </LanguageData>

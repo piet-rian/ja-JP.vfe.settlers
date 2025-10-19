@@ -3,8 +3,7 @@
 
   <!-- EN: double-action revolver -->
   <VFES_Gun_DoubleActionRevolver.label>ダブルアクションリボルバー</VFES_Gun_DoubleActionRevolver.label>
-  <!-- EN: An ancient pattern double-action revolver. It's not very accurate, but has a decent
-  firing speed for a pistol and is quick on the draw. -->
+  <!-- EN: An ancient pattern double-action revolver. It's not very accurate, but has a decent firing speed for a pistol and is quick on the draw. -->
   <VFES_Gun_DoubleActionRevolver.description>古典的なダブルアクションリボルバー。命中精度は高くありませんが、ピストルとしては発射速度が良好で、抜き撃ちが速いです。</VFES_Gun_DoubleActionRevolver.description>
   <!-- EN: grip -->
   <VFES_Gun_DoubleActionRevolver.tools.grip.label>グリップ</VFES_Gun_DoubleActionRevolver.tools.grip.label>
@@ -15,8 +14,7 @@
 
   <!-- EN: double-barreled shotgun -->
   <VFES_Gun_DoubleBarreledShotgun.label>二連式ショットガン</VFES_Gun_DoubleBarreledShotgun.label>
-  <!-- EN: An ancient design of shotgun with two individually loaded barrels, that emits a
-  tight-packed spray of pellets. -->
+  <!-- EN: An ancient design of shotgun with two individually loaded barrels, that emits a tight-packed spray of pellets. -->
   <VFES_Gun_DoubleBarreledShotgun.description>個別に装填する二つの銃身を持つ古典的なショットガン。密集した散弾を放ちます。</VFES_Gun_DoubleBarreledShotgun.description>
   <!-- EN: stock -->
   <VFES_Gun_DoubleBarreledShotgun.tools.stock.label>ストック</VFES_Gun_DoubleBarreledShotgun.tools.stock.label>
@@ -27,9 +25,7 @@
 
   <!-- EN: hunting rifle -->
   <VFES_Gun_HuntingRifle.label>ハンティングライフル</VFES_Gun_HuntingRifle.label>
-  <!-- EN: An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low
-  fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for
-  hunting. -->
+  <!-- EN: An ancient pattern bolt-action rifle with a scope. With its exceptional range, and low fire rate, it is unlikely to drive animals to revenge, which makes it an excellent choice for hunting. -->
   <VFES_Gun_HuntingRifle.description>古典的なボルトアクションの狙撃銃（スコープ付き）。射程が長く発射速度が低いため、獲物を逆上させにくく、狩猟に適しています。</VFES_Gun_HuntingRifle.description>
   <!-- EN: stock -->
   <VFES_Gun_HuntingRifle.tools.stock.label>ストック</VFES_Gun_HuntingRifle.tools.stock.label>

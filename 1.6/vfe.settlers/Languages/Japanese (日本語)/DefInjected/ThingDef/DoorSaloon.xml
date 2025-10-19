@@ -3,8 +3,7 @@
 
   <!-- EN: saloon door -->
   <DoorSaloon.label>サルーン扉</DoorSaloon.label>
-  <!-- EN: A saloon door for your country needs. Whilst it doesn't provide much protection, it
-  swings open nearly instantaneously. -->
+  <!-- EN: A saloon door for your country needs. Whilst it doesn't provide much protection, it swings open nearly instantaneously. -->
   <DoorSaloon.description>カントリー風のサルーン用扉。防御力は高くありませんが、ほぼ瞬時に開閉します。</DoorSaloon.description>
 
 </LanguageData>
